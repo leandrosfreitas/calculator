@@ -3,7 +3,7 @@
 Projeto de calculadora em PYTHON para executar operações matemáticas simples como:
 
 * SOMA
-* SUBTRACAO
+* SUBTRAÇÃO
 * MULTIPLICAÇÃO
 * DIVISÃO
   
