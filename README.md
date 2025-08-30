@@ -39,8 +39,8 @@ A calculadora possui uma interface simples e intuitiva.
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu_usuario/calculadora.git
-cd calculadora
+git clone https://github.com/leandrosfreitas/calculator
+cd calculator
 ```
 
 2. Instale as dependências:
