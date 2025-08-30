@@ -1,0 +1,37 @@
+# Byte-compiled / cache / logs
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Pastas de build, dist e arquivos temporários
+build/
+dist/
+*.egg-info/
+
+# Ambiente virtual
+venv/
+env/
+.venv/
+.env/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de teste gerados
+*.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nosetests.xml
+*.pytest_cache/
+
+# Outros
+*.pyc

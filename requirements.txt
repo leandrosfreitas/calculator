@@ -1,0 +1,5 @@
+# Requisitos do projeto Calculadora
+
+# Python 3.12 ou superior (Tkinter já incluído)
+
+python>=3.12
